@@ -1871,7 +1871,7 @@ StScrollBar {
   .dialog .dialog-button:hover {
     border: 1px solid #323436;
     color: #e1e1e1;
-    background-color: #494951; }
+    background-color: #4d4d50; }
   .dialog .dialog-button:active {
     border: 1px solid #323436;
     color: #e1e1e1;
@@ -2211,7 +2211,7 @@ StScrollBar {
   padding: 0; }
 
 .appmenu-category-button:hover {
-  background-color: #b0b0b8; }
+  background-color: rgba(165, 165, 167, 0.18); }
 
 .appmenu-category-button-selected {
   background-color: rgba(165, 165, 167, 0.18); }

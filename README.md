@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon)
 **Author**: DrMcC0y
-**Version**: 1.0.0
+**Version**: 1.0.1
 **Based on**: Mint-Y-Dark-Aqua
 
 ---
@@ -15,7 +15,7 @@ Modern-Office-Night is a GTK theme for Linux Mint (Cinnamon edition), based on t
 
 To complete the visual experience, it's highly recommended to use it together with the **Modern-Office-Night-Icons** icon set:
 
-> 🔗 [Modern-Office-Night-Icons](https://www.pling.com/p/2302176/)
+> 🔗 [Modern-Office-Night-Icons](https://www.pling.com/p/2346851/)
 
 **Please note:** due to Cinnamon limitations, the theme includes separate versions for standard and scaled UI (e.g. if you are using 4K and 200% scaling) to ensure that the panel decorations (the indicators under open application icons) display correctly and consistently.
 
