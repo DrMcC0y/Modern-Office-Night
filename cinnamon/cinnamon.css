@@ -231,7 +231,6 @@ StScrollBar {
   border: 1px solid #202020;
   border-radius: 3px;
   /* application menu background (start menu) */
-  /* background-color: rgba(37, 37, 37, 0.94); }  */
   background-color: rgba(42, 42, 43, 0.94); } 
   .menu.top {
     border-radius: 0 0 3px 3px; }
