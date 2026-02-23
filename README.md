@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon)
 **Author**: DrMcC0y
-**Version**: 1.0.2
+**Version**: 1.0.3
 **Based on**: Mint-Y-Dark-Aqua
 
 ---
