@@ -2161,9 +2161,9 @@ StScrollBar {
     .appmenu-sidebar .appmenu-system-button-logout:hover {
       background-color: #69696e; }
     .appmenu-sidebar .appmenu-system-button-shutdown {
-      background-color: #46474d; }
+      background-color: #6e2424; }
     .appmenu-sidebar .appmenu-system-button-shutdown:hover {
-      background-color: #69696e; }
+      background-color: #884343; }
 
 .appmenu-system-box {
   spacing: 10px; }
@@ -2182,13 +2182,13 @@ StScrollBar {
   border-radius: 9999px;
   background-color: #46474d; } /* logout/lock buttons */
   .appmenu-system-button-shutdown {
-    background-color: #46474d; }
+    background-color: #6e2424; }
   .appmenu-system-button-lock:hover {
     background-color: #69696e; }
   .appmenu-system-button-logout:hover {
     background-color: #69696e; }
   .appmenu-system-button-shutdown:hover {
-    background-color: #69696e; }
+    background-color: #884343; }
 
 .appmenu-application-button-label {
   padding: 0; }
